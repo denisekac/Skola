@@ -24,9 +24,10 @@ public class GIT {
 
 
     }
+    //komentar na GIT
     //vstupna metoda bude String a vystup bude int
     private static int pocetZnakov(String out) {
-        int langht: wordcount /
+        int langht: wordcount /;
         return count;
     }
 }
